@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# eth avax module 4 Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample of smart contract, a test for that contract, and a script that deploys that contract.
 
